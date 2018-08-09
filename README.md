@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+Hello, my name is Sudip Mahajan, I am still experimenting with github!
